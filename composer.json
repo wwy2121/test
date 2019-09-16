@@ -1,0 +1,15 @@
+{
+  "name": "wwy2121/test",
+  "description": "测试的",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "wuwenying",
+      "email": "wuwenying@gmail.com.com"
+    }
+  ],
+  "autoload": {
+    "psr-4":{"My\\test\\":"src"}
+  },
+  "require": {}
+}

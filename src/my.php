@@ -11,4 +11,8 @@ class my{
     public function __construct(){
         echo 'my_construct';
     }
+
+    public function add() {
+        echo time();
+    }
 }
